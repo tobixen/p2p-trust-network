@@ -8,7 +8,7 @@ Often it's useful to be able to trust an online identity, i.e. for peer-to-peer 
 
 Most often the various platforms (like Couchsurfing, Uber, BeWelcome, Loanbase, Localbitcoins etc) will have some built-in support for ratings; user account A can leaving positive feedback for B after A and B has had an interaction on that platform.  The ratings never leave the patform.  There are usually no ways to see the difference between a conman creating yet another fake account and a newcomer to the platform.  It is impossible for an outsider that have been scammed on one platform to leave a negative feedback warning users on another platform about the scammer.
 
-What we need is a global network of trust system.  It should be truely peer-to-peer, it should be based on open standards and open source.  Just the risk of getting negative feedback on such a network could be enough deterrent to avoid certain types of scam.
+What we need is a global network-of-trust system.  It should be truely peer-to-peer, it should be based on open standards and open source.  Just the risk of getting negative feedback on such a network could be enough deterrent to avoid certain types of scam.
 
 ## Features needed
 
@@ -31,3 +31,8 @@ Such a network is also quite open to unjust revenge-attacks from angry ex-partne
 ## Implementation details
 
 A global database - perhaps something blockchain-based?
+
+## Existing works
+
+* OpenPGP key signings is already some form of "web-of-trust"-network - but it has quite some weaknesses, it is only useful for connecting email addresses with real names.  A keysigning supposedly should be read as "I have checked the ID documents of Eve", though it's normal to skip the ID verification process.
+* PeerTrust - http://www.cc.gatech.edu/projects/disl/PeerTrust/ - seems to be a white paper from 2004.  The "Related Work"-section contains only dead links
