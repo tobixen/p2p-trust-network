@@ -22,9 +22,11 @@ One should be able to query an online identity and if there is any kind of chain
 
 It should be easy to import/sync data from existing systems.  I.e, importing data from PGP "web-of-trust", importing data from sites like LinkedIn and Facebook, etc.
 
-## Privacy
+## Privacy and problems
 
 Such a network will contain a lot of valuable metadata that can be abused in all sorts of ways - that's something to be concerned over.  One should consider smart ways to use encryption.
+
+Such a network is also quite open to unjust revenge-attacks from angry ex-partners, etc.
 
 ## Implementation details
 
