@@ -6,7 +6,7 @@ This is so far just some loose ideas
 
 Often it's useful to be able to trust an online identity, i.e. for peer-to-peer lending sites, peer-to-peer home exchange sites, work assignments, etc.
 
-Most often the various platforms (like Couchsurfing, Uber, BeWelcome, Loanbase, Localbitcoins etc) will have some built-in support for ratings; user account A can leaving positive feedback for B after A and B has had an interaction on that platform.  The ratings never leave the patform.  There are usually no ways to see the difference between a conman creating yet another fake account and a newcomer to the platform.  It is impossible for an outsider that have been scammed on one platform to leave a negative feedback warning users on another platform about the scammer.
+Most often the various platforms (like Couchsurfing, Uber, BeWelcome, Loanbase, Localbitcoins etc) will have some built-in support for ratings; user account A can leaving positive feedback for B after A and B has had an interaction on that platform.  The ratings never leave the platform.  There are usually no ways to see the difference between a conman creating yet another fake account and a newcomer to the platform.  It is impossible for an outsider that have been scammed on one platform to leave a negative feedback warning users on another platform about the scammer.
 
 What we need is a global network-of-trust system.  It should be truely peer-to-peer, it should be based on open standards and open source.  Just the risk of getting negative feedback on such a network could be enough deterrent to avoid certain types of scam.
 
