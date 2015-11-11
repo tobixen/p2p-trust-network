@@ -36,3 +36,5 @@ A global database - perhaps something blockchain-based?
 
 * OpenPGP key signings is already some form of "web-of-trust"-network - but it has quite some weaknesses, it is only useful for connecting email addresses with real names.  A keysigning supposedly should be read as "I have checked the ID documents of Eve", though it's normal to skip the ID verification process.
 * PeerTrust - http://www.cc.gatech.edu/projects/disl/PeerTrust/ - seems to be a white paper from 2004.  The "Related Work"-section contains only dead links
+* Keybase - keybase.io
+* Namecoin
