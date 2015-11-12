@@ -38,3 +38,5 @@ A global database - perhaps something blockchain-based?
 * PeerTrust - http://www.cc.gatech.edu/projects/disl/PeerTrust/ - seems to be a white paper from 2004.  The "Related Work"-section contains only dead links
 * Keybase - keybase.io
 * Namecoin
+* Orisi
+* Onename
