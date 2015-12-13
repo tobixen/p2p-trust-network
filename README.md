@@ -40,3 +40,4 @@ A global database - perhaps something blockchain-based?
 * Namecoin
 * Orisi
 * Onename
+* TrustDavies http://earlbarr.com/publications/trustdavis.pdf
